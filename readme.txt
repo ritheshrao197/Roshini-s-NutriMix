@@ -1,78 +1,52 @@
-Get Pro here:
-https://templatesjungle.gumroad.com/l/cravee-food-product-bootstrap-template
+Certainly! Below is a sample website content for Nutrimix, designed to provide an engaging and informative overview of the product.
 
+---
 
-It is a free HTML CSS template by https://templatesjungle.com/
+# Welcome to Nutrimix - Your Home for Natural Wellness!
 
-You can use this template as a starter template and start building as you require.
+## Elevate Your Nutrition with Nutrimix
 
-The code is consistent and can be easily maintained as we have followed a good coding standard. We want everyone to easily understand it and modify it according to their requirement. As the main goal of providing these templates is to give you something to work on before even starting.
+At Nutrimix, we believe in the power of nature to nourish and energize. Our carefully crafted blend of millets, dry fruits, nuts, and seeds is a testament to the wholesome goodness that comes straight from your kitchen to your plate. Discover a world of natural wellness with Nutrimix.
 
-Preview URL:
-https://demo.templatesjungle.com/cravee/
+## Why Nutrimix?
 
-Get the Full Version here: 
-https://templatesjungle.gumroad.com/l/cravee-food-product-bootstrap-template
+### Home-Made Goodness
 
+Experience the love and care that goes into every spoonful of Nutrimix. Our blend is created in our kitchens, prioritizing quality, freshness, and a homemade touch that sets us apart.
 
-FREE FOR BOTH PERSONAL AND COMMERCIAL USE
+### Nutrient-Rich Fusion
 
-This HTML Template is provided by TemplatesJungle.com and is free to use in both personal and commercial projects as long as you don't remove our credit link in the footer.
+Harness the nutritional power of millets, the richness of dry fruits, the crunchiness of nuts, and the goodness of seeds – all in one blend. Nutrimix offers a diverse range of essential nutrients to support your overall well-being.
 
-However, you can remove the credit link by paying for No Attribution version of the template.
+### Versatility at Its Best
 
+From smoothies to yogurt toppings, baking to snacking, Nutrimix is your versatile companion. Explore endless possibilities in the kitchen with this convenient and nutritious blend.
 
-RIGHTS
+### No Compromises
 
-You are allowed to use it in your personal projects and commercial projects.
+We believe in purity. Nutrimix contains no added preservatives or artificial flavors, ensuring you get the natural goodness of each ingredient in its truest form.
 
-You can modify and sell it to your clients.
+## Benefits of Nutrimix
 
+- **Boosts Energy Levels:** Start your day with a natural energy boost that lasts.
+- **Supports Overall Well-being:** A holistic approach to health with a nutrient-rich profile.
+- **Aids in Weight Management:** A valuable addition to your weight management journey.
+- **Enhances Digestive Health:** The fiber content promotes a healthy digestive system.
 
-PROHIBITIONS
+## Try Nutrimix Today!
 
-You cannot remove the credit link which links back to templatesjungle.com.
+Embark on a journey to natural wellness with Nutrimix. Visit our online store or find us at your nearest retailer to bring home this homemade blend of goodness.
 
-You are not permitted to resell or redistribute (paid or free) as it is. 
+[Shop Now Button]
 
-You cannot use it to build premium templates, themes or any other goods to be sold on marketplaces.
+## Stay Connected
 
-If you want to share the free resource in your blog, you must point it to original TemplatesJungle.com resource page. 
+Join our community and stay updated on the latest recipes, health tips, and Nutrimix news. Follow us on social media:
 
-You cannot host the download file in your website.
+[Social Media Icons]
 
+[Contact Information]
 
-SUPPORT
+---
 
-You can contact us to report any bugs and errors in the template. We will try and fix them immediately although it's a free resource.
-
-Feel free to let us know about what you want to see in the future downloads. We will definitely give it a thought while creating our next freebie.
-
-
-CREDITS & REFERENCES
-
-https://getbootstrap.com/
-
-Stock Photos
-https://unsplash.com/
-https://www.freepik.com/
-https://www.pexels.com/
-
-Fonts
-Google fonts
-https://fonts.google.com/
-
-Icons
-https://icon-sets.iconify.design/
-
-Bootstrap Framework
-https://getbootstrap.com/
-
-JQuery Plugins
-
-Swiper Slider - https://swiperjs.com/
-Chocolat.js – a Free Lightbox Plugin -http://chocolat.insipi.de/
-
-Thanks for downloading from TemplatesJungle.com !
-
-
+Feel free to customize the content according to your brand's voice and style. Include high-quality images of Nutrimix, testimonials, and any other relevant information to enhance the user experience on the website.
